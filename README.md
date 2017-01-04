@@ -1,4 +1,4 @@
-### Simple Dockerfile to run a PHP app based on `tutum/apache-php`
+### Simple Dockerfile to run a PHP app based on `php:7.1.0-apache`
 
 ## DO NOT USE THIS IN PRODUCTION
 
